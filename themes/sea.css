@@ -1,0 +1,14 @@
+.sea {
+  --wallpaper: url('sea.jpg');
+  --background: #000008;
+  --foreground: #f2f1ce;
+  --color0: 0, 0, 8;
+  --color1: 19, 125, 129;
+  --color2: 50, 141, 132;
+  --color3: 100, 162, 139;
+  --color4: 148, 181, 145;
+  --color5: 176, 204, 159;
+  --color6: 210, 218, 164;
+  --color7: 242, 241, 206;
+  --color8: 169, 168, 144;
+}

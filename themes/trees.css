@@ -1,0 +1,14 @@
+.trees {
+  --wallpaper: url('trees.jpg');
+  --background: #220a12;
+  --foreground: #d1d5b7;
+  --color0: 34, 10, 18;
+  --color1: 89, 142, 48;
+  --color2: 103, 140, 93;
+  --color3: 113, 141, 114;
+  --color4: 131, 134, 118;
+  --color5: 153, 171, 122;
+  --color6: 190, 194, 126;
+  --color7: 209, 213, 183;
+  --color8: 146, 149, 128;
+}

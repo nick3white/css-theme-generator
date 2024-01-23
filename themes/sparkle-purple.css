@@ -1,0 +1,14 @@
+.sparkle-purple {
+  --wallpaper: url('sparkle-purple.jpg');
+  --background: #07071B;
+  --foreground: #e4ccce;
+  --color0: 7, 7, 27;
+  --color1: 139, 63, 96;
+  --color2: 144, 77, 113;
+  --color3: 179, 110, 125;
+  --color4: 166, 107, 138;
+  --color5: 191, 123, 144;
+  --color6: 215, 162, 167;
+  --color7: 228, 204, 206;
+  --color8: 159, 142, 144;
+}

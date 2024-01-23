@@ -1,0 +1,14 @@
+.red-light {
+  --wallpaper: url('red-light.jpg');
+  --background: #0E0D10;
+  --foreground: #ddc9ac;
+  --color0: 14, 13, 16;
+  --color1: 76, 52, 44;
+  --color2: 54, 72, 63;
+  --color3: 93, 69, 53;
+  --color4: 96, 85, 76;
+  --color5: 152, 36, 17;
+  --color6: 194, 68, 42;
+  --color7: 221, 201, 172;
+  --color8: 154, 140, 120;
+}

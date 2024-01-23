@@ -1,0 +1,6 @@
+test-images/hongkong.jpg
+test-images/red-light.jpg
+test-images/sea.jpg
+test-images/sparkle-purple.jpg
+test-images/trees.jpg
+test-images/wall-balloons.jpg

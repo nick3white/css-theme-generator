@@ -1,0 +1,14 @@
+.wall-balloons {
+  --wallpaper: url('wall-balloons.jpg');
+  --background: #1e1b19;
+  --foreground: #e9e3e2;
+  --color0: 30, 27, 25;
+  --color1: 180, 191, 190;
+  --color2: 199, 185, 175;
+  --color3: 203, 198, 185;
+  --color4: 229, 201, 164;
+  --color5: 184, 197, 202;
+  --color6: 212, 208, 205;
+  --color7: 233, 227, 226;
+  --color8: 163, 158, 158;
+}

@@ -1,0 +1,14 @@
+.hongkong {
+  --wallpaper: url('hongkong.jpg');
+  --background: #0F100F;
+  --foreground: #dad2c5;
+  --color0: 15, 16, 15;
+  --color1: 142, 94, 49;
+  --color2: 137, 119, 94;
+  --color3: 122, 135, 118;
+  --color4: 156, 141, 113;
+  --color5: 195, 162, 116;
+  --color6: 173, 166, 145;
+  --color7: 218, 210, 197;
+  --color8: 152, 147, 137;
+}
