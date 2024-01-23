@@ -8,4 +8,6 @@ Note that the color values are provided as r, g, b values; this is so they can b
 
 Also, no filename path is provided for the wallpaper variables; since there's no telling where you crazy kids will want your images, I didn't feel that was worth adding.
 
-## *Note:* this is here because github is where most things are.  Usually I use sourcehut, and [that version of the repo](https://git.sr.ht/~jeremyparker/css-theme-generator) might be more up to date, depending on how hectic my life is at any given moment.
+#### *Note:* this is here because github is where most things are.  Usually I use [source hut](https://sr.ht/), and [that version of the repo](https://git.sr.ht/~jeremyparker/css-theme-generator) might be more up to date, depending on how hectic my life is at any given moment.
+
+fwiw source hut is smol web so you should too 
